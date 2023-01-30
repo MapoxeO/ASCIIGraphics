@@ -1,0 +1,15 @@
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\bin\x86\Release\ASCIIGraphics.exe.config
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\bin\x86\Release\ASCIIGraphics.exe
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\x86\Release\ASCIIGraphics.MainForm.resources
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\x86\Release\ASCIIGraphics.Properties.Resources.resources
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\x86\Release\ASCIIGraphics.csproj.GenerateResource.cache
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\x86\Release\ASCIIGraphics.csproj.CoreCompileInputs.cache
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\x86\Release\ASCIIGraphics.exe
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\x86\Release\ASCIIGraphics.csproj.AssemblyReference.cache
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\bin\x86\Release\ASCIIGraphics.exe.manifest
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\bin\x86\Release\ASCIIGraphics.application
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\x86\Release\ASCIIGraphics.TrustInfo.xml
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\x86\Release\ASCIIGraphics.exe.manifest
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\x86\Release\ASCIIGraphics.application
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\x86\Release\ASCIIGraphics.SettingsForm.resources
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\x86\Release\ASCIIGraphics.InfoForm.resources

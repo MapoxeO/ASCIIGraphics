@@ -1,0 +1,10 @@
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\bin\Debug\ASCIIGraphics.exe
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\bin\Debug\ASCIIGraphics.pdb
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\Debug\ASCIIGraphics.csproj.AssemblyReference.cache
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\Debug\ASCIIGraphics.MainForm.resources
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\Debug\ASCIIGraphics.Properties.Resources.resources
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\Debug\ASCIIGraphics.csproj.GenerateResource.cache
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\Debug\ASCIIGraphics.csproj.CoreCompileInputs.cache
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\Debug\ASCIIGraphics.exe
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\obj\Debug\ASCIIGraphics.pdb
+D:\repos\Visual Studio\CSharp\ASCIIGraphics\bin\Debug\ASCIIGraphics.exe.config
